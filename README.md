@@ -4,7 +4,7 @@
 <a name="readme-top"></a>
 
 
-HOW TO USE:
+<!-- HOW TO USE:
 
 REQUIRED SECTIONS:
 - Table of Contents
@@ -17,7 +17,7 @@ REQUIRED SECTIONS:
 - Contributing
 - Show your support
 - Acknowledgements
-- License
+- License -->
 
 
 <div align="center">
@@ -116,9 +116,9 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[HTML]**
+- [ ] **[CSS]**
+- [ ] **[linters]**
 
 ## ⭐️ Show your support <a name="support"></a>
 
