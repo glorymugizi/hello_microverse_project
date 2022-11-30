@@ -128,7 +128,7 @@ Simply run HTML file or open HTML file with web browser.
 
 1. Chrome <br>
 <ul>
-<li>Right-click to inspect the page.<li><br>
+<li>Right-click to inspect the page.</li><br>
 
 <li>The Chrome DevTools window will open.</li><br>
 
