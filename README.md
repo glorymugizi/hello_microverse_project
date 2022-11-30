@@ -132,7 +132,7 @@ Simply run HTML file or open HTML file with web browser.
 
 <li>The Chrome DevTools window will open.</li><br>
 
-Click on each tab to access the tools.</ul><br>
+<li>Click on each tab to access the tools.</li></ul><br>
 
 2. Firefox<br>
 <ul>
