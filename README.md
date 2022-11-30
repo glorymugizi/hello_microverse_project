@@ -126,7 +126,6 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse.org for this training
 
