@@ -127,7 +127,8 @@ To run the project, Simply run HTML file or open HTML file with web browser.
 
 ### Deployment
 
-Step 1: Add your new site
+Step 1: <br>
+Add your new site
 Once you've logged in, it will take you to a home dashboard. Click the New site from git button to add your new website to Netlify.
 
 Step 2: Link to your GitHub
