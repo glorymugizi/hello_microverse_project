@@ -112,7 +112,7 @@ To run the project, execute the following command:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/glorymugizi)
+- GitHub: [@glorymugizi](https://github.com/glorymugizi)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
