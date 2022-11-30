@@ -50,7 +50,7 @@ REQUIRED SECTIONS:
 
 # 📖 [Hello Microverse project] <a name="About html CSS and linters"></a>
 
-**Hello Microverse project]** is a CSS html project and is the first project at Microverse.
+**Hello Microverse** is a CSS html project and the first project at Microverse to emphasize the use of linters as a means of fixing and eliminating problems in the code. This enables students to write code in a professional manner, transforming the microverse into a breeding ground for international developers.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -174,7 +174,7 @@ Now you are done! Your new website is published, and you can view it by clicking
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Glory Mugizi**
 
 - GitHub: [@glorymugizi](https://github.com/glorymugizi)
 
