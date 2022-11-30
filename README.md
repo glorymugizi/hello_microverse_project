@@ -130,13 +130,13 @@ Simply run HTML file or open HTML file with web browser.
 <ul>
 <li>Right-click to inspect the page.<li><br>
 
-</li>The Chrome DevTools window will open.</li><br>
+<li>The Chrome DevTools window will open.</li><br>
 
 Click on each tab to access the tools.</ul><br>
 
 2. Firefox<br>
 <ul>
-<li>There are two main ways to open the Inspector:</li><br>
+There are two main ways to open the Inspector:</<br>
 
 <li>Select the Inspector panel in the Web Developer Tools, accessible from the Browser Tools submenu.</li><br>
 
