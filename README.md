@@ -126,22 +126,23 @@ Simply run HTML file or open HTML file with web browser.
 
 ### Run tests
 
-1.Chrome <br>
-Right-click to inspect the page.<br>
+1. Chrome <br>
+<ul>
+<li>Right-click to inspect the page.<li><br>
 
-The Chrome DevTools window will open.<br>
+</li>The Chrome DevTools window will open.</li><br>
 
-Click on each tab to access the tools.<br>
+Click on each tab to access the tools.</ul><br>
 
-2.Firefox<br>
+2. Firefox<br>
+<ul>
+<li>There are two main ways to open the Inspector:</li><br>
 
-There are two main ways to open the Inspector:<br>
+<li>Select the Inspector panel in the Web Developer Tools, accessible from the Browser Tools submenu.</li><br>
 
-Select the Inspector panel in the Web Developer Tools, accessible from the Browser Tools submenu<br>
+<li>Right-click an element on a web page and select Inspect Element.</li><br>
 
-Right-click an element on a web page and select Inspect Element.<br>
-
-The Inspector will appear at the bottom of the browser window:<br>
+<li>The Inspector will appear at the bottom of the browser window:</li></ul><br>
 
 ### Deployment
 
