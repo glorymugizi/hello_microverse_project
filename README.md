@@ -77,9 +77,9 @@ REQUIRED SECTIONS:
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these
-steps.
+steps.<br>
 
-Cloning a repository
+Cloning a repository<br>
 step 1 <br>
 In the File menu, click Clone Repository.
 
